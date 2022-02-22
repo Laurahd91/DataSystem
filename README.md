@@ -1,4 +1,4 @@
-# Gestor de Reparación de Equipos Informáticos
+# Gestor de Equipos Informáticos para tienda de reparación
 
 ![GestorEquipos](https://user-images.githubusercontent.com/74453440/155126719-cf13f89f-d18d-430e-b6d6-bbc9d7ae9a51.png)
 
