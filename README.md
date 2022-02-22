@@ -10,16 +10,16 @@
 
 ## Información General
 ***
-Spanish Online es un proyecto propio que pretende ser útil a todos aquellos profesores de Enseñanza Online, en concreto para aquellos profesores enfocados en impartir clases de Español a Extranjeros.
+Data System es un gestor de información para aquellas tiendas que se dedican a reparar equipos informáticos.
 
 ## Funcionalidades
 ***
 
-* Visualización de los servicios.
-* Contacto a través de formulario e email.
-* Reserva de clases gratuitas.
-* Compras de los servicios ofertados.
-* Diseño Responsive.
+* Agregar, Modificar y Seleccionar Usuarios.
+* Agregar, Modificar y Seleccionar Clientes.
+* Agregar, Modificar y Seleccionar Equipos Informáticos.
+* Visualizar una Gráfica que representa el estado de reparacción en el que se encuentran los equipos admitidos en la tienda.
+
 
 ## Tecnologías
 ***
@@ -33,4 +33,4 @@ Spanish Online es un proyecto propio que pretende ser útil a todos aquellos pro
 ## Visualización
 ***
 
-https://laurahd91.github.io/spanish_online/index.html
+https://drive.google.com/drive/folders/1OWPbWg8o8g_SXnD7j4zQFCxM6R1h6Lmw?usp=sharing
