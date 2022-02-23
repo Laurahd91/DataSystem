@@ -1,0 +1,40 @@
+BASE DATOS DATA SYSTEM
+
+CREATE TABLE clientes(
+	id_cliente INT AUTO_INCREMENT,
+    nombre_cliente VARCHAR(50),
+    email_cliente VARCHAR(50),
+    tel_cliente VARCHAR(50),
+    direc_cliente VARCHAR(50),
+    ultima_modificacion VARCHAR(50),
+    PRIMARY KEY (id_cliente)
+);
+
+CREATE TABLE usuarios(
+	id_usuario INT AUTO_INCREMENT,
+    nombre_usuario VARCHAR(50),
+    telefono VARCHAR(50),
+    username VARCHAR(50),
+    pass VARCHAR(50),
+    tipo_nivel VARCHAR(50),
+    estatus VARCHAR(50),
+    registrado_por VARCHAR(50),
+    PRIMARY KEY (id_usuario)
+);
+
+CREATE TABLE equipos (
+    	id_equipo INT AUTO_INCREMENT,
+    id_cliente INT,
+    tipo_equipo VARCHAR(50),
+    marca VARCHAR(50),
+    modelo VARCHAR(50),
+    num_serie VARCHAR(50),
+    dia_ingreso VARCHAR(50),
+    annio_ingreso VARCHAR(50),
+    observaciones LONGTEXT,
+    estatus VARCHAR(50),
+    ultima_modificacion VARCHAR(50),
+    comentarios_tecnicos LONGTEXT,
+    revision_tecnica VARCHAR(50),
+    PRIMARY KEY (id_equipo)
+);
